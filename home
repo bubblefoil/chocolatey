@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packages>
+  <package id="vlc" />
+  <package id="irfanview" />
+  <package id="steam" />
+  <package id="discord" />
+</packages>
